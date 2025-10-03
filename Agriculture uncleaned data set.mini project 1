@@ -1,0 +1,581 @@
+Farmer_ID,State,Crop,Season,Soil_Type,Fertilizer_Used,Irrigation_Type,Area_Acres,Production_Qtl,Rainfall_mm,Market_Price,Year
+FR1545,Bihar,Pulses,Zaid,Alluvial,DAP,Drip,18.08,128.45,224.21,5523.65,2010
+FR1277,Punjab,Pulses,Kharif,,Urea,Sprinkler,5.3,155.54,855.65,1881.05,2012
+FR1104,Kerala,Tea,Kharif,Clay,Urea,Sprinkler,9.82,85.44,1117.88,5523.12,2023
+FR1177,Haryana,Soybean,Zaid,Alluvial,Urea,River,-999.0,33.13,955.71,4653.98,2023
+FR1456,Rajasthan,Wheat,Zaid,Black,Compost,Drip,12.44,30.61,1146.15,4264.28,2020
+,Rajasthan,Maize,Zaid,Laterite,Mixed,NA,17.74,56.47,1027.01,1854.32,2018
+FR1528,Gujarat,Cotton,Kharif,Laterite,Mixed,Tube Well,3.94,28.66,1101.74,2377.33,2016
+FR1443,Gujarat,Rice,Kharif,Sandy,DAP,Sprinkler,19.46,139.97,1187.69,3247.89,2022
+FR1167,Bihar,Rice,Zaid,Laterite,Urea,River,1.91,91.53,195.18,2220.8,2015
+FR1248,Rajasthan,Cotton,Zaid,Sandy,None,Sprinkler,7.51,129.55,1161.62,1078.19,2016
+FR1538,Maharashtra,Cotton,Kharif,Clay,MOP,Drip,17.71,22.07,271.71,1218.07,2021
+FR1181,Kerala,Wheat,All Season,Clay,Urea,NA,4.52,29.19,1023.32,5030.44,2013
+FR1131,Bihar,Groundnut,All Season,Sandy,DAP,River,14.77,126.84,869.5,1942.86,2024
+FR1182,Gujarat,Soybean,Zaid,Alluvial,Mixed,Rain-fed,19.2,141.08,718.15,2388.29,2021
+FR1414,UP,Tea,Zaid,Alluvial,None,River,19.45,121.79,,4141.8,2010
+,MP,Groundnut,Kharif,Clay,MOP,Sprinkler,19.08,126.74,438.11,2880.4,2012
+FR1204,Tamil Nadu,Maize,Rabi,Alluvial,Compost,River,0.72,199.48,1045.26,2369.96,2022
+FR1439,Gujarat,Rice,Zaid,Black,Compost,Canal,6.73,142.41,873.3,2291.19,2024
+FR1086,Punjab,Barley,All Season,Sandy,Mixed,Rain-fed,9.79,106.76,,5229.71,2023
+FR1416,Gujarat,Wheat,All Season,Sandy,Mixed,Drip,1.12,23.98,725.78,5723.07,2024
+FR1541,Gujarat,Maize,All Season,Sandy,MOP,Sprinkler,5.59,179.22,922.86,1736.46,2021
+FR1101,Rajasthan,Maize,All Season,Clay,MOP,Tube Well,5.13,108.63,905.53,3284.59,2010
+FR1002,Bihar,Sugarcane,All Season,Alluvial,None,Sprinkler,17.17,18.18,211.69,3528.19,2012
+FR1079,Rajasthan,Soybean,Zaid,Sandy,MOP,Drip,16.47,159.9,176.38,4866.28,2019
+FR1070,Rajasthan,unknown,Rabi,Alluvial,DAP,Tube Well,5.98,67.8,764.76,4636.03,2016
+FR1153,Gujarat,Soybean,Kharif,Red,MOP,Canal,19.7,23.74,339.5,4213.08,2023
+FR1055,Tamil Nadu,Groundnut,Rabi,Sandy,Urea,Tube Well,2.85,175.18,303.29,5088.52,2023
+FR1063,Rajasthan,Groundnut,Zaid,Sandy,MOP,Canal,15.02,48.44,1168.56,3651.8,2023
+FR1264,Rajasthan,Wheat,Zaid,Black,DAP,Tube Well,16.33,93.2,686.41,3881.5,2023
+FR1029,Haryana,Tea,Rabi,Sandy,Urea,Canal,19.15,120.4,1110.72,1274.27,2014
+FR1145,Rajasthan,Rice,All Season,Laterite,Compost,Tube Well,1.5,17.29,501.67,2043.88,2012
+FR1090,Rajasthan,Cotton,Kharif,Laterite,DAP,Sprinkler,18.45,,1141.66,2773.52,2023
+FR1082,Gujarat,Sugarcane,Rabi,Sandy,Compost,Rain-fed,6.03,56.48,460.85,3493.39,2021
+FR1547,Kerala,Maize,Kharif,Alluvial,DAP,NA,16.16,143.22,276.19,3968.01,2021
+FR1081,Rajasthan,Tea,Rabi,Black,DAP,River,4.5,143.42,,3352.28,2023
+FR1312,Maharashtra,Barley,All Season,Sandy,Compost,Canal,18.95,113.09,1151.35,4622.04,2014
+FR1257,Gujarat,Groundnut,Zaid,Clay,DAP,Rain-fed,14.3,110.57,133.09,3374.72,2010
+FR1235,Rajasthan,Rice,All Season,Red,Compost,Sprinkler,17.09,105.1,1195.55,1875.9,2024
+FR1445,Gujarat,Pulses,All Season,Clay,MOP,Canal,9.43,31.48,247.25,2517.51,2015
+FR1543,Tamil Nadu,Tea,All Season,Laterite,DAP,Canal,19.86,170.59,191.46,1347.19,2015
+FR1423,Rajasthan,Cotton,Zaid,Black,Mixed,River,6.21,40.42,160.0,1141.21,2014
+FR1515,Kerala,Soybean,All Season,Red,None,Rain-fed,11.62,170.63,,5135.86,2023
+FR1231,MP,Rice,All Season,Sandy,Urea,Drip,17.85,23.88,755.61,5884.6,2021
+FR1010,Tamil Nadu,Tea,All Season,Black,Mixed,Tube Well,13.08,48.6,258.65,1581.66,2020
+FR1544,MP,Soybean,All Season,Sandy,Urea,Drip,19.18,99.32,524.7,3325.73,2024
+FR1218,Haryana,Soybean,Rabi,Alluvial,MOP,Rain-fed,3.73,159.03,928.15,5505.42,2017
+FR1006,Tamil Nadu,Cotton,All Season,Clay,None,Tube Well,11.38,143.2,503.35,3004.14,2022
+FR1479,Maharashtra,Pulses,Kharif,Laterite,Urea,Canal,9.78,80.71,301.16,5485.23,2018
+FR1255,UP,Groundnut,Rabi,Laterite,Compost,Sprinkler,12.65,171.93,1191.97,5892.96,2013
+FR1449,UP,Maize,Rabi,Alluvial,MOP,Drip,19.07,80.52,343.17,2308.69,2016
+FR1244,Punjab,Maize,Rabi,Red,None,Rain-fed,3.78,117.14,92.38,0.0,2012
+FR1163,Kerala,Soybean,All Season,Red,MOP,Canal,4.36,168.84,221.08,0.0,2022
+FR1195,Haryana,Groundnut,Kharif,Clay,None,Drip,13.24,126.33,404.46,3927.99,2021
+FR1218,Haryana,Soybean,Rabi,Alluvial,MOP,Rain-fed,3.73,159.03,928.15,5505.42,2017
+FR1158,UP,Sugarcane,Zaid,Laterite,Compost,River,4.68,30.08,214.14,1112.31,2023
+FR1364,UP,Wheat,Rabi,Sandy,Urea,Sprinkler,13.84,175.01,724.97,2357.81,2018
+FR1196,Punjab,Barley,Zaid,Black,DAP,Drip,16.02,87.87,635.62,2146.06,2017
+FR1078,Rajasthan,Groundnut,Rabi,Laterite,Compost,Tube Well,3.71,52.01,929.32,1159.46,2011
+FR1448,UP,Soybean,All Season,Alluvial,None,Sprinkler,18.95,72.68,135.28,4805.85,2021
+FR1499,Haryana,Pulses,Zaid,Sandy,None,Sprinkler,7.88,13.56,562.99,3804.2,2020
+FR1083,Haryana,Rice,Zaid,Clay,Compost,River,16.69,173.95,334.16,3947.06,2013
+FR1261,Punjab,Groundnut,Zaid,Laterite,Urea,Drip,3.47,170.05,714.39,5321.54,2021
+FR1030,Bihar,Barley,All Season,Laterite,MOP,Rain-fed,-999.0,184.19,75.8,0.0,2013
+FR1072,Haryana,unknown,Zaid,Clay,MOP,Tube Well,9.79,145.06,856.54,2667.93,2014
+FR1506,Tamil Nadu,Wheat,Kharif,Black,Urea,Rain-fed,15.26,136.32,257.62,4171.88,2013
+FR1503,Maharashtra,Sugarcane,Kharif,Laterite,Urea,Canal,13.9,150.24,1187.4,2678.23,2015
+FR1412,Tamil Nadu,Barley,Rabi,Alluvial,DAP,Rain-fed,8.45,25.67,795.48,1640.89,2016
+FR1073,Tamil Nadu,Wheat,All Season,Clay,Urea,Rain-fed,4.48,197.17,738.92,2011.38,2024
+FR1039,Kerala,Tea,Kharif,Black,MOP,Sprinkler,3.71,184.86,1162.86,1343.79,2022
+FR1076,Haryana,Sugarcane,All Season,Sandy,MOP,River,9.75,100.54,691.36,4611.38,2012
+FR1203,UP,Groundnut,All Season,Clay,DAP,Sprinkler,2.0,78.89,1022.73,2140.14,2011
+FR1155,Bihar,Sugarcane,All Season,Clay,DAP,River,14.1,156.8,58.5,2894.97,2018
+FR1006,Tamil Nadu,Cotton,All Season,Clay,None,Tube Well,11.38,143.2,503.35,3004.14,2022
+FR1274,Rajasthan,Wheat,All Season,Black,Urea,Sprinkler,16.59,71.52,304.13,2014.07,2019
+FR1140,Tamil Nadu,Cotton,Rabi,Red,MOP,Sprinkler,17.78,8.51,1053.02,4729.14,2017
+FR1060,Rajasthan,Wheat,Kharif,Red,None,Drip,16.21,187.89,53.78,1500.92,2019
+FR1132,Gujarat,Maize,Zaid,Black,Urea,Rain-fed,10.36,106.94,476.73,5198.66,2011
+FR1400,UP,Barley,Kharif,Sandy,None,River,13.22,66.53,145.47,5605.41,2019
+FR1268,Bihar,Barley,Kharif,Sandy,Mixed,Tube Well,17.72,189.23,154.43,4003.9,2012
+FR1463,UP,Groundnut,All Season,Red,None,Rain-fed,5.7,27.1,994.54,5415.48,2014
+FR1011,Tamil Nadu,Sugarcane,All Season,Sandy,None,Rain-fed,11.61,,594.46,4255.33,2021
+FR1296,Punjab,Tea,All Season,Laterite,MOP,Canal,2.76,185.99,1159.58,4109.92,2015
+FR1284,Maharashtra,Maize,Kharif,Sandy,Mixed,Tube Well,9.7,115.85,624.82,5053.79,2019
+FR1318,Punjab,Barley,Zaid,Red,Mixed,Tube Well,1.13,147.24,980.89,2599.23,2010
+FR1079,Rajasthan,Soybean,Zaid,Sandy,MOP,Drip,16.47,159.9,176.38,4866.28,2019
+FR1234,Kerala,Pulses,All Season,Red,DAP,Sprinkler,12.14,48.48,736.98,0.0,2010
+FR1185,Gujarat,Rice,Rabi,Black,Urea,Rain-fed,14.4,77.93,818.28,2115.67,2015
+FR1518,Gujarat,Sugarcane,Zaid,Sandy,Urea,Sprinkler,9.48,75.67,343.17,5826.23,2016
+FR1137,Gujarat,Cotton,Kharif,Black,DAP,Tube Well,10.68,189.84,1059.66,1411.62,2014
+FR1520,Gujarat,Sugarcane,Kharif,Alluvial,Urea,River,15.18,73.86,482.93,2754.97,2017
+FR1341,Haryana,Sugarcane,Kharif,Red,None,Rain-fed,6.45,53.66,80.98,5446.1,2020
+FR1228,Tamil Nadu,Cotton,Kharif,Sandy,MOP,Rain-fed,14.94,97.85,845.9,5345.41,2012
+FR1271,Rajasthan,Sugarcane,All Season,Sandy,Urea,River,18.39,171.23,125.2,1364.11,2021
+FR1291,UP,Rice,Zaid,Black,MOP,Drip,2.2,130.85,552.76,2716.61,2012
+FR1488,Tamil Nadu,Groundnut,Zaid,Clay,Urea,Drip,10.72,142.78,251.17,2539.05,2019
+FR1289,Maharashtra,Barley,Zaid,Black,MOP,River,19.93,182.1,1042.69,1800.59,2018
+FR1009,Kerala,Tea,All Season,Laterite,DAP,Rain-fed,-999.0,106.52,1028.29,1220.47,2013
+FR1501,Punjab,Groundnut,Zaid,Alluvial,MOP,Sprinkler,18.86,157.85,279.52,5652.08,2018
+FR1513,Maharashtra,Tea,All Season,Black,Mixed,Canal,7.6,39.43,737.63,5026.49,2022
+FR1521,Punjab,Tea,Kharif,Clay,Compost,Drip,7.39,,395.47,3977.88,2014
+FR1382,Gujarat,Pulses,Zaid,Red,Urea,River,6.42,187.71,350.19,1217.46,2022
+FR1109,MP,Pulses,Zaid,Clay,Mixed,NA,5.84,124.46,485.71,3707.96,2016
+FR1084,MP,Maize,Rabi,Black,MOP,Sprinkler,4.05,155.97,622.14,2669.67,2018
+FR1208,Tamil Nadu,Barley,Kharif,Sandy,Mixed,Drip,1.79,61.72,234.52,5320.67,2017
+FR1354,Kerala,Soybean,Rabi,Red,None,Rain-fed,4.52,83.2,601.01,5350.54,2017
+,Punjab,Cotton,Rabi,Clay,Mixed,Rain-fed,0.94,173.26,849.78,3189.06,2023
+FR1441,Haryana,Rice,Rabi,Laterite,Compost,Tube Well,6.52,15.51,410.73,1115.73,2015
+FR1338,UP,Pulses,Kharif,Clay,MOP,NA,7.82,109.85,421.62,0.0,2020
+FR1199,Maharashtra,Rice,Kharif,Alluvial,Compost,Sprinkler,0.97,84.23,1180.11,3625.93,2020
+FR1333,Maharashtra,Tea,Kharif,Sandy,Compost,Tube Well,1.51,110.46,574.3,5417.24,2016
+FR1109,MP,Pulses,Zaid,Clay,Mixed,NA,5.84,124.46,485.71,3707.96,2016
+FR1542,Maharashtra,Sugarcane,Kharif,Red,Urea,Rain-fed,18.69,131.34,1180.68,0.0,2019
+FR1299,Maharashtra,Rice,Zaid,Alluvial,DAP,River,15.01,144.81,724.12,5868.81,2015
+FR1165,Haryana,Cotton,Rabi,Sandy,Urea,NA,9.04,58.39,990.44,3403.66,2010
+FR1272,Rajasthan,Groundnut,Kharif,Laterite,MOP,Tube Well,12.32,10.81,1199.45,4669.73,2012
+FR1211,Maharashtra,Pulses,All Season,Laterite,Mixed,Drip,12.33,18.34,822.25,4089.99,2016
+FR1077,Kerala,Sugarcane,Zaid,Alluvial,Compost,Drip,1.94,13.67,1095.11,4903.41,2019
+FR1429,Maharashtra,Wheat,Zaid,Black,DAP,Sprinkler,7.11,136.68,226.16,4115.14,2011
+FR1290,Maharashtra,Rice,Zaid,Sandy,MOP,Sprinkler,11.58,62.4,739.87,1105.33,2014
+FR1352,Kerala,Tea,Kharif,Alluvial,DAP,Rain-fed,12.02,95.52,744.22,5900.21,2014
+FR1176,Kerala,Rice,Zaid,Alluvial,None,Drip,0.7,188.83,862.69,4053.63,2021
+FR1377,MP,Soybean,Kharif,Sandy,None,River,18.88,57.66,1101.24,5127.14,2015
+FR1390,UP,Cotton,Rabi,Laterite,None,NA,1.74,18.56,958.3,2748.44,2021
+FR1468,Punjab,Tea,Kharif,Alluvial,Compost,Canal,0.64,75.8,643.34,5339.01,2017
+FR1075,Punjab,Sugarcane,Rabi,Alluvial,Urea,Rain-fed,12.26,42.84,1124.75,2006.68,2016
+FR1348,Kerala,Rice,All Season,Laterite,MOP,Drip,19.72,64.41,180.83,5088.29,2021
+FR1118,Punjab,Rice,Zaid,Red,Compost,Drip,10.99,2.04,612.93,4054.37,2010
+FR1092,Maharashtra,Pulses,Zaid,Sandy,DAP,Tube Well,11.9,110.76,383.74,3935.45,2014
+FR1280,Punjab,Sugarcane,Zaid,Laterite,MOP,River,5.11,,829.12,4126.68,2015
+FR1068,Punjab,Sugarcane,All Season,Alluvial,None,Canal,15.36,83.88,516.92,4962.16,2019
+FR1015,Punjab,Tea,Zaid,Clay,Urea,NA,16.86,20.06,246.04,1834.78,2013
+FR1332,Gujarat,Rice,Zaid,Clay,DAP,Tube Well,17.15,147.01,827.67,3838.84,2017
+FR1148,Tamil Nadu,Groundnut,Rabi,Laterite,Compost,Sprinkler,18.24,10.49,531.02,3915.77,2010
+FR1088,Haryana,Sugarcane,All Season,Black,Compost,River,-999.0,4.73,354.37,0.0,2014
+FR1490,Haryana,Maize,Rabi,Clay,MOP,Canal,-999.0,80.31,399.69,4704.46,2022
+FR1117,Gujarat,Barley,All Season,Alluvial,Mixed,Canal,1.95,,418.81,5746.15,2024
+FR1362,Kerala,Pulses,Kharif,Red,Urea,Sprinkler,16.81,54.29,989.96,1377.13,2019
+FR1383,Haryana,Barley,All Season,Red,Mixed,River,13.76,144.65,748.87,1578.96,2017
+FR1033,Bihar,Maize,Rabi,Black,Compost,Rain-fed,12.34,155.66,170.52,5228.26,2016
+FR1000,Punjab,Tea,All Season,Red,Urea,Rain-fed,10.07,103.08,939.51,1527.47,2013
+FR1172,Haryana,Wheat,Rabi,Red,Mixed,Tube Well,12.22,142.41,356.49,3385.04,2012
+FR1286,Rajasthan,Barley,Rabi,Laterite,None,NA,19.1,134.79,622.5,1289.49,2013
+FR1328,Bihar,Pulses,Rabi,Black,DAP,Canal,14.48,74.56,1036.8,5368.74,2011
+FR1539,Rajasthan,Wheat,All Season,Black,DAP,Sprinkler,3.03,157.0,918.65,3802.14,2015
+FR1220,UP,Groundnut,Zaid,Clay,Compost,NA,12.22,183.47,200.13,4350.13,2013
+FR1227,Punjab,Pulses,Rabi,Clay,Mixed,Rain-fed,15.04,170.18,1023.68,4619.61,2010
+FR1022,MP,Tea,All Season,Red,None,River,15.36,96.2,1194.76,2283.93,2019
+FR1473,Tamil Nadu,Rice,All Season,Red,None,River,9.99,,687.36,2287.08,2013
+FR1116,Haryana,Soybean,Zaid,Laterite,Mixed,Canal,5.73,88.64,,3310.43,2019
+FR1089,Maharashtra,Sugarcane,Kharif,Black,Mixed,NA,3.96,153.22,813.41,0.0,2021
+FR1184,Tamil Nadu,Pulses,Kharif,Black,MOP,River,11.93,181.09,603.38,5881.8,2019
+FR1446,Bihar,Sugarcane,All Season,Red,None,Tube Well,12.76,73.2,218.82,2447.48,2012
+FR1018,Rajasthan,Maize,Zaid,Clay,DAP,Sprinkler,6.89,175.93,902.48,2179.39,2010
+FR1188,Punjab,Soybean,Rabi,Red,None,Sprinkler,15.35,175.22,1062.15,1518.53,2013
+FR1278,Haryana,Groundnut,Kharif,Red,Mixed,Tube Well,15.05,4.15,456.04,1936.73,2017
+FR1144,Haryana,Soybean,All Season,Clay,MOP,Canal,2.53,55.2,974.99,5288.71,2022
+FR1517,Haryana,Rice,Zaid,Alluvial,Urea,Tube Well,12.0,164.54,698.92,0.0,2022
+FR1523,UP,Groundnut,Rabi,Clay,Compost,Sprinkler,2.86,7.42,351.53,4198.36,2010
+FR1340,Bihar,Tea,Zaid,Laterite,None,River,7.8,110.28,883.81,1865.2,2015
+FR1537,Haryana,Soybean,All Season,Clay,None,Tube Well,18.04,9.93,1087.59,5373.08,2014
+FR1210,Haryana,Soybean,Kharif,Black,DAP,Tube Well,5.34,198.02,970.48,4689.74,2022
+FR1519,Kerala,Rice,Kharif,Red,Urea,Tube Well,2.17,102.05,982.54,1263.39,2012
+FR1482,Kerala,Maize,All Season,Alluvial,Compost,Tube Well,2.3,164.54,201.1,2016.92,2022
+FR1054,Haryana,Barley,Zaid,Alluvial,None,Rain-fed,8.26,102.01,972.96,3333.4,2022
+FR1247,Tamil Nadu,Groundnut,Rabi,Laterite,Compost,River,6.16,84.25,785.17,3938.03,2023
+FR1046,UP,Maize,Rabi,Red,Urea,Rain-fed,5.66,123.45,81.85,4441.84,2024
+FR1093,Punjab,Soybean,Kharif,Black,Urea,River,11.2,6.09,1109.78,2473.67,2014
+FR1322,Rajasthan,Maize,Zaid,Red,None,Tube Well,7.29,30.46,939.06,0.0,2016
+FR1108,Kerala,Barley,Zaid,Sandy,Compost,Tube Well,9.54,43.98,1187.96,5074.84,2014
+FR1481,Haryana,Tea,Rabi,Alluvial,Compost,Tube Well,15.29,176.64,639.91,0.0,2021
+FR1507,Gujarat,unknown,Rabi,Alluvial,Mixed,Canal,3.27,76.87,645.73,0.0,2021
+FR1516,Haryana,Wheat,All Season,Clay,Urea,Sprinkler,9.85,179.48,218.21,2516.23,2018
+FR1010,Tamil Nadu,Tea,All Season,Black,Mixed,Tube Well,13.08,48.6,258.65,1581.66,2020
+FR1209,Gujarat,Rice,Kharif,Red,MOP,Tube Well,17.41,126.11,920.22,2861.43,2024
+FR1360,Maharashtra,Rice,Rabi,Alluvial,Compost,River,3.0,56.04,838.51,2981.49,2017
+,Haryana,Rice,Rabi,Alluvial,Urea,River,13.69,2.48,113.94,5042.21,2016
+FR1374,Punjab,Sugarcane,Rabi,Sandy,Mixed,NA,19.83,,919.78,5637.28,2018
+FR1497,Kerala,Soybean,Zaid,Red,Mixed,Rain-fed,3.89,,1146.29,2136.88,2012
+FR1447,Rajasthan,Barley,Kharif,Red,Urea,Tube Well,17.22,21.6,995.2,3570.38,2018
+FR1069,MP,Maize,Zaid,Clay,Urea,Tube Well,8.8,122.45,468.81,2223.2,2014
+FR1507,Gujarat,unknown,Rabi,Alluvial,Mixed,Canal,3.27,76.87,645.73,0.0,2021
+FR1381,UP,Maize,Zaid,Alluvial,Urea,Sprinkler,3.38,155.69,1024.91,2680.92,2020
+FR1549,Bihar,Sugarcane,Kharif,Sandy,Urea,Canal,18.2,119.88,381.96,1677.38,2022
+FR1192,Kerala,Pulses,Zaid,Alluvial,Mixed,Drip,4.27,59.66,1102.69,1476.51,2022
+FR1405,Haryana,Tea,Kharif,Red,Mixed,Rain-fed,5.29,197.87,797.9,4229.58,2020
+FR1238,Punjab,Wheat,Zaid,Red,DAP,Tube Well,12.13,21.12,329.78,2182.96,2018
+FR1149,MP,Barley,All Season,Black,None,River,10.51,151.31,1047.4,2573.68,2021
+FR1124,Rajasthan,Maize,Kharif,Clay,None,Rain-fed,1.91,120.78,523.49,5676.33,2023
+FR1442,Haryana,Cotton,All Season,Alluvial,None,Tube Well,4.89,82.16,614.75,5609.11,2018
+FR1185,Gujarat,Rice,Rabi,Black,Urea,Rain-fed,14.4,77.93,818.28,2115.67,2015
+FR1249,Punjab,Soybean,Rabi,Clay,Urea,Tube Well,18.63,191.35,817.51,4167.89,2014
+FR1275,UP,Maize,All Season,Red,None,Tube Well,12.31,91.13,1129.57,3429.02,2012
+FR1434,Maharashtra,Groundnut,Zaid,Red,Urea,River,4.96,43.51,,3397.04,2012
+FR1250,Tamil Nadu,Sugarcane,All Season,Clay,Compost,Sprinkler,8.34,110.51,461.44,0.0,2010
+FR1512,Maharashtra,Maize,Kharif,Sandy,None,River,6.1,103.96,,1684.81,2020
+FR1420,Gujarat,Sugarcane,Rabi,Clay,Compost,River,13.73,58.06,64.78,1543.65,2017
+FR1346,Punjab,Tea,All Season,Clay,MOP,Sprinkler,9.47,90.68,532.64,4493.42,2014
+FR1534,UP,Tea,Kharif,Laterite,DAP,Drip,15.91,160.07,495.35,1057.5,2012
+FR1431,Gujarat,Groundnut,Rabi,Alluvial,Compost,Canal,13.86,70.8,685.71,2068.6,2012
+FR1114,Gujarat,Wheat,All Season,Alluvial,Urea,River,2.73,163.97,483.67,4134.91,2013
+FR1141,Bihar,Soybean,Rabi,Alluvial,Urea,Sprinkler,17.25,123.51,,1868.28,2017
+FR1321,Bihar,Pulses,Kharif,Red,MOP,Canal,15.3,61.14,509.0,0.0,2023
+FR1007,Punjab,Barley,Kharif,Red,DAP,River,18.16,46.61,655.65,2113.89,2015
+FR1498,UP,Soybean,Rabi,Black,None,Tube Well,5.62,67.96,220.85,3420.1,2021
+FR1019,Punjab,Soybean,Kharif,Laterite,DAP,Sprinkler,16.38,41.97,931.8,3335.61,2023
+FR1172,Haryana,Wheat,Rabi,Red,Mixed,Tube Well,12.22,142.41,356.49,3385.04,2012
+FR1428,Bihar,Soybean,Kharif,Red,DAP,NA,9.02,133.92,982.05,0.0,2019
+FR1056,MP,Sugarcane,Rabi,Clay,DAP,NA,13.36,48.26,509.52,5758.72,2022
+,UP,Barley,Zaid,Red,None,Sprinkler,12.17,96.22,732.82,5965.83,2016
+FR1319,Punjab,Wheat,All Season,Black,Mixed,Rain-fed,8.38,76.83,945.54,5870.16,2011
+FR1531,MP,Maize,Rabi,Laterite,DAP,River,11.47,35.49,890.31,5907.01,2021
+FR1305,Kerala,Pulses,Zaid,Sandy,Urea,Tube Well,13.48,137.89,146.43,4401.13,2022
+FR1349,Tamil Nadu,Soybean,Rabi,Sandy,DAP,Drip,17.95,149.88,495.63,3991.55,2014
+FR1049,Maharashtra,Pulses,Kharif,Sandy,Urea,Drip,5.51,163.14,682.15,3650.77,2024
+FR1350,Gujarat,Pulses,All Season,Sandy,DAP,Drip,1.81,120.81,480.56,4504.61,2016
+FR1025,Bihar,Groundnut,Zaid,Sandy,None,NA,5.31,195.63,278.65,3043.95,2023
+FR1419,Tamil Nadu,Cotton,All Season,Black,Urea,River,19.41,149.96,569.46,0.0,2014
+FR1329,Tamil Nadu,Tea,Kharif,Alluvial,DAP,Sprinkler,19.4,38.72,251.19,5305.86,2014
+FR1281,Gujarat,Pulses,Kharif,Laterite,Compost,River,15.67,106.77,,3024.67,2023
+FR1042,Bihar,Cotton,Kharif,Alluvial,None,Drip,12.85,141.32,707.22,3836.81,2022
+FR1394,Tamil Nadu,Wheat,Zaid,Red,Compost,Rain-fed,19.67,184.31,754.46,3425.58,2010
+FR1355,Tamil Nadu,Pulses,All Season,Sandy,Urea,River,19.61,,867.57,2371.04,2015
+FR1432,Gujarat,Pulses,Zaid,Red,Urea,River,0.67,38.59,194.29,1135.04,2012
+FR1265,Kerala,Pulses,Kharif,Clay,DAP,Sprinkler,9.46,183.72,1180.07,5608.1,2017
+FR1396,UP,Soybean,Kharif,Laterite,MOP,Tube Well,17.51,121.41,461.77,5133.54,2018
+FR1361,Maharashtra,Soybean,All Season,Red,None,Sprinkler,1.99,144.41,700.29,2631.05,2012
+FR1154,Bihar,Maize,Rabi,Sandy,Urea,Drip,12.69,90.04,763.14,3832.85,2019
+FR1126,Haryana,Rice,Kharif,Alluvial,None,Sprinkler,5.43,38.34,821.27,2146.98,2020
+FR1467,MP,Cotton,Kharif,Sandy,Urea,Canal,3.53,98.11,,4495.05,2012
+FR1425,Haryana,Soybean,All Season,,None,Rain-fed,15.64,92.63,296.37,4139.93,2016
+FR1422,Kerala,Sugarcane,All Season,Sandy,None,Sprinkler,17.25,147.04,648.37,5135.64,2022
+FR1174,Punjab,Cotton,Rabi,Sandy,Urea,Rain-fed,3.63,122.95,956.66,3220.72,2023
+FR1031,Gujarat,Cotton,Kharif,Black,MOP,Drip,11.21,113.5,759.89,1118.29,2019
+FR1113,MP,Barley,All Season,Sandy,Compost,Rain-fed,13.88,46.58,643.28,4604.86,2014
+FR1023,Kerala,Sugarcane,All Season,Alluvial,Mixed,Canal,6.91,133.72,1168.15,1136.06,2023
+FR1173,UP,Pulses,All Season,Black,None,River,7.6,168.13,250.83,3925.46,2015
+FR1298,Punjab,Wheat,Kharif,Clay,DAP,River,8.62,170.89,997.2,1185.04,2015
+FR1245,Punjab,Tea,Rabi,Laterite,Mixed,Tube Well,5.15,163.86,742.15,1700.46,2022
+FR1057,MP,Barley,All Season,Red,Compost,River,5.03,2.8,266.46,5675.87,2011
+FR1304,MP,Wheat,Kharif,Red,DAP,Sprinkler,4.48,54.82,754.79,4000.89,2020
+FR1222,Rajasthan,Cotton,All Season,Red,Compost,River,9.41,,915.6,0.0,2013
+FR1524,Punjab,Groundnut,All Season,Sandy,Mixed,Tube Well,1.08,106.57,856.27,4364.28,2017
+FR1024,MP,Tea,Kharif,Clay,MOP,Drip,8.5,43.27,104.84,2318.78,2012
+FR1017,Rajasthan,Groundnut,Zaid,Clay,Compost,Drip,4.02,81.09,372.36,0.0,2016
+FR1415,UP,Tea,Zaid,Sandy,DAP,River,16.8,,106.03,2559.84,2014
+FR1066,Gujarat,Barley,All Season,Clay,Urea,Canal,2.74,14.0,536.45,5238.23,2023
+FR1483,Rajasthan,Soybean,Kharif,Sandy,None,Rain-fed,15.96,125.27,241.09,0.0,2022
+FR1167,Bihar,Rice,Zaid,Laterite,Urea,River,1.91,91.53,195.18,2220.8,2015
+FR1532,Maharashtra,Barley,Rabi,Clay,Mixed,River,4.8,36.36,100.16,1433.98,2017
+FR1212,MP,Soybean,Zaid,Red,MOP,Drip,12.79,20.8,1008.9,4194.67,2015
+,Punjab,Tea,Zaid,Alluvial,DAP,Tube Well,8.77,17.74,533.36,4319.81,2014
+FR1301,Haryana,Maize,All Season,Red,MOP,Sprinkler,3.66,68.68,408.47,5099.02,2020
+FR1363,Tamil Nadu,Tea,Rabi,Laterite,None,Sprinkler,12.13,62.68,831.73,4296.39,2024
+FR1505,Kerala,Soybean,Kharif,Alluvial,MOP,Canal,16.56,2.25,1010.26,0.0,2017
+FR1259,Kerala,Pulses,Rabi,Red,Urea,Sprinkler,12.41,89.7,655.08,5163.87,2017
+FR1094,UP,Soybean,Zaid,Sandy,Urea,Drip,13.66,185.61,1142.67,3356.84,2019
+FR1180,Gujarat,unknown,Rabi,Alluvial,DAP,Tube Well,16.87,90.65,905.04,1172.25,2011
+FR1386,MP,Cotton,Kharif,Black,None,Rain-fed,18.44,197.34,517.57,3707.7,2022
+FR1311,,Pulses,Rabi,Black,Mixed,Rain-fed,4.92,142.61,959.31,4759.95,2020
+FR1402,MP,Pulses,Rabi,Red,Mixed,Sprinkler,8.22,35.26,588.03,1625.46,2021
+FR1005,Gujarat,Soybean,Rabi,Alluvial,Compost,Drip,8.43,99.51,148.26,1845.1,2015
+FR1045,Haryana,Rice,Rabi,Clay,DAP,River,19.9,,867.24,4119.5,2020
+FR1278,Haryana,Groundnut,Kharif,Red,Mixed,Tube Well,15.05,4.15,456.04,1936.73,2017
+FR1367,Kerala,Groundnut,Kharif,Alluvial,Compost,Rain-fed,15.75,32.81,996.59,4710.34,2010
+FR1464,Bihar,Barley,Kharif,Red,Mixed,Sprinkler,14.0,151.06,642.23,3065.9,2023
+FR1016,Rajasthan,Groundnut,Kharif,Black,Compost,Canal,14.62,19.86,873.79,1833.7,2015
+FR1048,Tamil Nadu,Wheat,Rabi,Red,Compost,Rain-fed,7.82,171.96,918.89,5453.25,2018
+FR1364,UP,Wheat,Rabi,Sandy,Urea,Sprinkler,13.84,175.01,724.97,2357.81,2018
+FR1462,Maharashtra,Barley,All Season,Alluvial,None,Sprinkler,19.32,168.84,233.09,1788.87,2016
+FR1003,Gujarat,Soybean,Kharif,Alluvial,DAP,Tube Well,18.68,19.02,535.91,5024.16,2014
+FR1309,Haryana,Soybean,Kharif,Black,Mixed,Rain-fed,14.65,174.46,962.09,1000.01,2011
+FR1365,Haryana,Tea,Rabi,Red,Compost,Drip,14.71,101.44,442.18,3437.23,2011
+FR1225,Kerala,Barley,Rabi,Clay,None,Tube Well,5.23,156.45,558.62,0.0,2015
+FR1026,Bihar,Cotton,All Season,Black,Compost,Canal,5.93,58.65,346.39,3561.66,2016
+FR1263,MP,Soybean,Zaid,Sandy,None,Drip,5.52,35.69,442.4,4437.52,2010
+FR1050,Rajasthan,Wheat,All Season,Laterite,DAP,Drip,14.02,133.37,1011.58,2988.04,2022
+FR1229,Punjab,Sugarcane,Rabi,Laterite,Mixed,Sprinkler,4.21,175.7,887.34,5308.68,2023
+FR1037,Punjab,Wheat,All Season,Clay,Compost,Drip,0.62,58.56,930.65,2991.63,2012
+FR1157,Gujarat,Sugarcane,Rabi,Black,Compost,River,16.39,174.6,626.71,1904.5,2016
+FR1237,Tamil Nadu,Pulses,Zaid,Black,DAP,River,17.04,115.46,802.88,1339.49,2024
+FR1522,Gujarat,Wheat,Rabi,Laterite,DAP,Rain-fed,1.48,77.43,961.98,4865.07,2011
+FR1175,Punjab,unknown,Kharif,Red,MOP,Drip,2.73,107.99,846.83,1780.65,2014
+FR1472,Punjab,Barley,Kharif,Red,MOP,Drip,15.35,98.96,612.2,1564.83,2012
+FR1530,Kerala,Groundnut,Zaid,Laterite,Compost,Sprinkler,7.31,24.92,1105.31,1177.22,2017
+FR1194,Maharashtra,Wheat,All Season,Alluvial,DAP,Canal,14.36,156.21,519.81,3842.63,2023
+FR1477,UP,Tea,All Season,Sandy,DAP,Rain-fed,11.1,71.47,936.19,2372.35,2024
+FR1132,Gujarat,Maize,Zaid,Black,Urea,Rain-fed,10.36,106.94,476.73,5198.66,2011
+FR1067,Rajasthan,Soybean,All Season,Black,DAP,Sprinkler,14.14,175.13,777.53,5883.77,2017
+FR1302,UP,Soybean,Kharif,Alluvial,Urea,River,17.19,,702.62,3030.41,2023
+FR1168,UP,Soybean,Rabi,Red,None,Drip,7.58,74.55,383.65,3301.72,2018
+FR1331,Rajasthan,Tea,All Season,Black,DAP,Drip,17.76,20.35,675.46,1849.64,2010
+FR1485,Tamil Nadu,Groundnut,Rabi,Laterite,Compost,Canal,16.91,173.0,456.89,5267.81,2023
+FR1193,Kerala,Barley,Kharif,Alluvial,MOP,Sprinkler,4.66,112.14,624.24,4700.47,2023
+FR1152,Maharashtra,Pulses,All Season,Clay,Mixed,Rain-fed,18.4,7.92,125.22,3729.6,2016
+FR1310,Bihar,unknown,Zaid,Laterite,Mixed,River,3.09,32.7,1108.04,2715.58,2010
+FR1320,Haryana,Rice,Zaid,Black,Compost,Drip,4.62,74.95,914.59,3194.75,2022
+FR1460,MP,Groundnut,Zaid,Laterite,DAP,River,18.1,10.71,1039.92,5221.9,2016
+FR1316,Tamil Nadu,Pulses,Kharif,Sandy,Mixed,Canal,8.56,110.09,578.82,4849.98,2023
+FR1103,Maharashtra,Pulses,Kharif,Alluvial,Mixed,Rain-fed,17.42,177.04,615.33,2535.65,2018
+FR1370,MP,Cotton,Kharif,Red,MOP,Tube Well,18.63,16.91,725.24,3548.2,2012
+FR1074,Bihar,Barley,Rabi,Laterite,None,River,4.65,70.43,759.3,2252.87,2013
+FR1399,Maharashtra,Barley,Zaid,Clay,Urea,Drip,2.63,3.01,157.89,1721.97,2023
+FR1368,,Cotton,Rabi,Sandy,Urea,Tube Well,11.42,171.73,674.44,5146.5,2015
+FR1119,Tamil Nadu,Maize,Zaid,Laterite,None,Rain-fed,2.86,110.65,291.3,0.0,2014
+FR1511,Bihar,Barley,Rabi,Clay,Compost,Tube Well,11.37,35.33,485.91,5386.03,2018
+FR1436,Bihar,Rice,Rabi,Black,Mixed,Sprinkler,19.33,60.93,695.14,3785.31,2020
+FR1457,Punjab,Cotton,All Season,Clay,Urea,Canal,16.01,48.09,458.86,0.0,2016
+FR1207,Kerala,Tea,Kharif,Laterite,Urea,Drip,7.96,117.09,576.52,2921.42,2016
+FR1444,MP,Sugarcane,Kharif,Sandy,None,Sprinkler,-999.0,55.39,455.31,4485.35,2021
+FR1334,Tamil Nadu,Pulses,All Season,Black,DAP,Drip,16.52,110.07,868.01,3589.85,2014
+FR1407,Gujarat,Sugarcane,Kharif,Clay,Compost,Rain-fed,7.76,194.93,821.97,2538.31,2023
+FR1382,Gujarat,Pulses,Zaid,Red,Urea,River,6.42,187.71,350.19,1217.46,2022
+FR1495,MP,Tea,Zaid,Alluvial,DAP,Rain-fed,1.61,115.69,598.47,4362.09,2018
+FR1357,Punjab,Rice,Rabi,Alluvial,Compost,Canal,4.24,60.92,989.85,0.0,2019
+FR1036,UP,Soybean,All Season,Laterite,None,River,1.49,107.12,926.99,1731.8,2020
+FR1139,UP,Tea,All Season,Alluvial,MOP,River,11.85,193.96,452.91,3777.28,2011
+FR1253,Maharashtra,unknown,All Season,Sandy,Mixed,Rain-fed,17.63,,1089.97,3045.12,2015
+FR1303,Haryana,Tea,All Season,Clay,Urea,Rain-fed,3.8,9.75,1062.51,2926.56,2017
+FR1369,Punjab,Rice,Zaid,Laterite,Mixed,Canal,4.1,135.1,169.43,3990.18,2022
+FR1059,Haryana,Tea,All Season,Alluvial,Mixed,Canal,-999.0,192.72,69.81,1547.91,2021
+FR1111,Kerala,Rice,Zaid,Sandy,Urea,Drip,12.77,35.57,817.83,1804.51,2018
+FR1494,MP,Groundnut,All Season,Black,MOP,Rain-fed,11.21,139.24,1037.29,5956.35,2017
+FR1335,Kerala,unknown,Zaid,Black,DAP,Tube Well,13.79,167.49,1006.33,4964.61,2017
+FR1262,UP,Sugarcane,Rabi,Sandy,Mixed,Sprinkler,7.85,199.08,565.2,4685.55,2017
+FR1468,Punjab,Tea,Kharif,Alluvial,Compost,Canal,0.64,75.8,643.34,5339.01,2017
+FR1297,MP,Tea,Rabi,Clay,MOP,Tube Well,4.38,171.31,99.41,3064.13,2024
+FR1150,Punjab,Cotton,Zaid,Clay,MOP,River,14.35,122.83,345.14,0.0,2011
+FR1266,Haryana,Pulses,Zaid,Sandy,None,River,5.91,146.9,647.12,2920.76,2024
+FR1493,MP,Groundnut,Kharif,Sandy,None,NA,14.87,37.61,332.79,5780.82,2021
+FR1038,UP,Tea,Kharif,Sandy,Urea,River,16.15,7.82,910.94,3970.13,2024
+FR1408,Maharashtra,Rice,Zaid,Sandy,DAP,Tube Well,11.14,19.24,272.41,5232.82,2022
+FR1307,Kerala,Soybean,Kharif,Laterite,MOP,River,7.02,187.95,187.43,1420.09,2011
+FR1198,Tamil Nadu,Tea,Kharif,Black,MOP,Drip,16.72,163.18,875.56,5522.12,2012
+FR1336,Rajasthan,Rice,All Season,Clay,Mixed,Rain-fed,6.88,122.03,339.29,5512.34,2010
+FR1146,Bihar,Cotton,Zaid,Sandy,DAP,NA,2.21,67.92,265.46,1952.79,2020
+FR1506,Tamil Nadu,Wheat,Kharif,Black,Urea,Rain-fed,15.26,136.32,257.62,4171.88,2013
+FR1147,Kerala,Pulses,Rabi,Clay,Compost,Canal,14.66,11.73,1016.01,2835.88,2019
+FR1452,MP,Sugarcane,All Season,Red,Compost,Drip,9.71,105.08,452.23,3803.3,2023
+FR1325,Tamil Nadu,Tea,Zaid,Laterite,Mixed,Canal,7.09,172.09,980.67,5659.02,2020
+FR1371,Haryana,Sugarcane,Zaid,Clay,Compost,Sprinkler,17.03,199.59,1042.69,4044.23,2020
+FR1123,Punjab,Groundnut,Kharif,Black,MOP,Drip,17.6,106.67,393.43,3594.33,2022
+FR1522,Gujarat,Wheat,Rabi,Laterite,DAP,Rain-fed,1.48,77.43,961.98,4865.07,2011
+FR1096,Kerala,Wheat,Rabi,Laterite,None,Tube Well,15.14,,315.2,4696.54,2012
+FR1143,Gujarat,Sugarcane,All Season,Alluvial,Compost,River,8.0,38.49,416.72,4472.08,2017
+FR1239,UP,Maize,All Season,Clay,Compost,Tube Well,7.13,110.61,796.49,2846.61,2021
+FR1356,Rajasthan,Wheat,All Season,Black,Compost,Tube Well,8.0,61.76,976.35,5386.11,2019
+FR1097,UP,Wheat,Zaid,Clay,MOP,Sprinkler,8.53,69.99,704.85,4571.65,2021
+FR1324,Maharashtra,Rice,Kharif,Alluvial,Urea,Sprinkler,18.98,75.88,139.4,3761.09,2017
+FR1509,UP,Soybean,Zaid,Red,DAP,River,1.28,64.12,1110.59,1611.7,2022
+FR1293,MP,Sugarcane,Rabi,,DAP,River,13.27,,870.35,4532.45,2022
+FR1453,Kerala,unknown,Kharif,Clay,MOP,River,2.83,192.89,1043.9,1763.97,2015
+FR1122,Maharashtra,Pulses,Kharif,Clay,Mixed,River,18.73,165.57,77.97,4584.97,2017
+FR1183,MP,Wheat,Kharif,Alluvial,None,Rain-fed,13.5,84.29,679.54,2135.05,2018
+FR1202,Tamil Nadu,Rice,Zaid,Laterite,Urea,Canal,0.52,124.27,65.97,5319.41,2024
+FR1323,Gujarat,Tea,Rabi,Laterite,MOP,Tube Well,16.24,130.3,976.15,3384.5,2021
+FR1246,Maharashtra,Pulses,All Season,Black,Mixed,Canal,1.19,50.74,222.59,5554.69,2010
+FR1395,Maharashtra,Sugarcane,All Season,Alluvial,Urea,Tube Well,2.85,184.13,838.72,5216.86,2024
+FR1403,Maharashtra,Maize,All Season,Alluvial,Mixed,Drip,19.21,107.93,950.32,5046.76,2019
+FR1532,Maharashtra,Barley,Rabi,Clay,Mixed,River,4.8,36.36,100.16,1433.98,2017
+FR1388,Rajasthan,Rice,Kharif,Alluvial,Mixed,Rain-fed,2.2,69.2,185.52,1482.14,2013
+FR1195,Haryana,Groundnut,Kharif,Clay,None,Drip,13.24,126.33,404.46,3927.99,2021
+FR1368,,Cotton,Rabi,Sandy,Urea,Tube Well,11.42,171.73,674.44,5146.5,2015
+FR1125,Haryana,Sugarcane,Zaid,Red,DAP,Canal,4.02,154.77,750.49,4784.23,2023
+FR1486,Kerala,Barley,Rabi,Black,Urea,Tube Well,4.16,129.98,1163.44,2752.12,2010
+FR1223,,Sugarcane,Rabi,Laterite,DAP,River,9.27,62.35,251.09,5663.09,2019
+FR1342,Maharashtra,Cotton,All Season,Clay,None,Drip,13.25,192.7,1106.82,4258.6,2018
+FR1053,Rajasthan,Wheat,All Season,,Compost,Canal,3.61,113.49,1150.24,2286.02,2012
+FR1219,Gujarat,Pulses,Zaid,Clay,MOP,River,16.49,176.93,898.77,5287.14,2014
+FR1129,,Tea,Rabi,Clay,MOP,Sprinkler,5.86,138.35,159.17,3866.74,2020
+FR1525,Punjab,Maize,Zaid,Sandy,DAP,Rain-fed,8.19,2.36,933.54,2498.42,2022
+FR1184,Tamil Nadu,Pulses,Kharif,Black,MOP,River,11.93,181.09,603.38,5881.8,2019
+FR1424,Haryana,Barley,Zaid,Sandy,Mixed,Drip,-999.0,170.96,328.09,5244.6,2022
+FR1487,Bihar,Tea,Zaid,Alluvial,MOP,Rain-fed,13.86,114.27,975.34,3702.69,2024
+FR1375,Kerala,Barley,All Season,Red,DAP,NA,6.99,52.83,966.46,2788.54,2024
+FR1084,MP,Maize,Rabi,Black,MOP,Sprinkler,4.05,155.97,622.14,2669.67,2018
+FR1380,Haryana,Rice,Kharif,Laterite,None,Rain-fed,10.61,46.81,374.58,0.0,2017
+FR1294,Maharashtra,Sugarcane,Kharif,Red,None,Drip,11.42,25.76,561.48,0.0,2013
+FR1480,Kerala,Sugarcane,All Season,Black,MOP,Sprinkler,8.43,83.66,416.48,0.0,2015
+FR1438,Maharashtra,unknown,Kharif,Clay,Urea,River,9.59,185.46,266.35,3994.36,2014
+FR1393,Kerala,Soybean,Kharif,Laterite,DAP,Tube Well,2.76,174.77,651.82,1947.11,2022
+FR1112,Kerala,Rice,Zaid,Laterite,Compost,Canal,4.34,196.32,1060.62,5806.23,2024
+FR1179,Gujarat,Wheat,Zaid,Clay,Mixed,Sprinkler,12.39,91.2,641.58,3401.48,2024
+FR1398,Maharashtra,Tea,All Season,Alluvial,Urea,Drip,13.08,68.39,882.55,4280.46,2016
+FR1437,Punjab,Sugarcane,All Season,Sandy,DAP,Sprinkler,3.0,19.22,594.83,1754.97,2014
+FR1426,Tamil Nadu,Soybean,Zaid,Clay,Mixed,Canal,16.99,62.16,961.72,2222.25,2010
+FR1373,Bihar,Maize,Zaid,Black,DAP,Drip,0.88,36.11,886.15,5172.14,2019
+FR1314,MP,Sugarcane,All Season,Sandy,Compost,Drip,2.81,31.67,1058.11,3896.47,2011
+FR1151,Punjab,Cotton,All Season,Red,Compost,Sprinkler,8.74,83.65,529.77,4275.96,2019
+FR1465,Bihar,Soybean,Kharif,Sandy,None,Sprinkler,5.6,191.13,1173.88,4109.24,2011
+FR1233,UP,Groundnut,Zaid,Sandy,DAP,River,8.01,187.05,708.7,5938.02,2020
+FR1306,Haryana,Rice,Zaid,Red,Compost,Drip,8.62,60.15,1075.51,5386.01,2023
+FR1404,Kerala,Pulses,Rabi,Clay,None,Sprinkler,5.82,111.9,732.0,1999.11,2014
+FR1164,UP,Maize,Kharif,Clay,Mixed,Sprinkler,13.16,,648.82,4946.12,2018
+FR1317,Bihar,Pulses,Kharif,Clay,MOP,NA,12.58,143.97,574.9,1141.23,2017
+FR1136,MP,Barley,Kharif,Sandy,None,Drip,18.42,79.93,173.24,4316.93,2018
+FR1197,Rajasthan,Barley,Rabi,Black,MOP,Drip,3.73,20.84,467.57,1142.98,2019
+FR1451,Gujarat,Groundnut,Kharif,Alluvial,DAP,Tube Well,7.02,198.36,388.28,2759.04,2010
+FR1258,Gujarat,Maize,All Season,Black,None,Tube Well,9.58,50.29,301.35,3141.99,2013
+FR1232,MP,Rice,Kharif,Laterite,MOP,Rain-fed,14.16,41.29,856.27,0.0,2017
+FR1115,MP,Tea,Kharif,Sandy,Urea,River,1.16,117.99,646.07,4488.85,2010
+FR1120,Tamil Nadu,Cotton,All Season,Black,Compost,Rain-fed,12.29,63.32,83.39,4145.59,2012
+FR1450,Rajasthan,Soybean,All Season,Black,Urea,Drip,18.17,65.59,568.49,5858.42,2010
+FR1376,Maharashtra,Cotton,Rabi,Red,Urea,Tube Well,4.8,150.98,984.92,5842.87,2016
+FR1384,Bihar,Pulses,Kharif,Black,None,NA,0.81,154.29,978.95,4226.74,2012
+FR1224,Haryana,Cotton,Kharif,Alluvial,DAP,Drip,19.03,155.39,1038.97,0.0,2010
+FR1548,UP,Soybean,Rabi,Clay,MOP,River,6.76,7.62,583.63,5833.72,2022
+FR1433,UP,Rice,Kharif,Sandy,DAP,Drip,9.34,56.56,642.94,3495.24,2017
+FR1347,Kerala,Rice,Zaid,Laterite,Mixed,Canal,3.14,,652.52,4838.42,2011
+FR1127,Maharashtra,Barley,Zaid,Clay,None,Rain-fed,8.19,193.03,598.51,1197.15,2016
+FR1396,UP,Soybean,Kharif,Laterite,MOP,Tube Well,17.51,121.41,461.77,5133.54,2018
+FR1285,MP,Sugarcane,All Season,Sandy,Compost,Canal,8.47,125.04,1135.84,0.0,2010
+FR1535,Tamil Nadu,Sugarcane,Rabi,Laterite,MOP,Rain-fed,4.89,6.47,318.68,2921.4,2013
+FR1043,Tamil Nadu,Wheat,Rabi,Alluvial,DAP,River,16.08,149.91,396.32,1037.45,2022
+FR1107,Gujarat,Cotton,Rabi,Alluvial,DAP,NA,3.82,45.15,1186.15,5840.67,2015
+FR1478,Punjab,Pulses,Zaid,Black,DAP,Rain-fed,7.82,,1038.31,1997.05,2012
+FR1421,Gujarat,Maize,All Season,Red,Compost,Sprinkler,6.42,106.87,1026.13,5049.18,2013
+FR1133,Punjab,Tea,Zaid,Laterite,Mixed,Sprinkler,13.34,178.16,706.02,2318.56,2016
+FR1469,UP,Sugarcane,Rabi,Laterite,Urea,River,10.92,45.02,596.59,5946.13,2013
+FR1044,MP,Rice,Rabi,Alluvial,Urea,Sprinkler,11.38,96.97,991.43,2564.78,2019
+FR1169,Rajasthan,Maize,All Season,Clay,DAP,Canal,5.92,113.01,836.36,3787.11,2018
+FR1065,Kerala,Barley,Rabi,Alluvial,None,Canal,8.25,141.03,560.25,1020.22,2022
+FR1283,Punjab,Sugarcane,Rabi,Laterite,Urea,River,10.75,153.24,579.86,2513.55,2019
+FR1085,Punjab,Cotton,All Season,Clay,Mixed,Tube Well,6.63,,452.45,2521.99,2024
+FR1242,Punjab,Sugarcane,Rabi,Laterite,MOP,Drip,3.52,89.56,108.51,0.0,2022
+FR1186,Tamil Nadu,Pulses,Rabi,Alluvial,Compost,NA,19.1,91.47,379.98,2488.58,2023
+FR1496,Haryana,Maize,Kharif,Laterite,Mixed,NA,19.78,31.09,454.6,5213.92,2010
+FR1159,Rajasthan,Rice,Kharif,Clay,Compost,Tube Well,19.6,188.86,717.38,3475.76,2024
+FR1012,Punjab,unknown,Kharif,Laterite,Urea,NA,17.57,99.98,109.86,4674.05,2017
+FR1035,Kerala,Cotton,Kharif,Alluvial,Compost,Tube Well,19.88,43.55,893.64,1433.52,2022
+FR1028,Kerala,unknown,All Season,Clay,Urea,Tube Well,19.24,108.31,559.46,3084.77,2016
+FR1170,Haryana,Wheat,Rabi,Clay,Mixed,Drip,0.59,98.13,891.24,4908.18,2012
+FR1142,Rajasthan,Wheat,Rabi,Sandy,Mixed,Canal,13.9,101.6,242.12,5097.02,2017
+FR1236,Gujarat,Barley,Rabi,Alluvial,DAP,Drip,10.3,139.07,1066.94,1340.57,2024
+FR1440,Bihar,Pulses,Kharif,Sandy,Compost,Drip,7.7,68.45,659.35,1353.13,2018
+FR1470,Haryana,Cotton,Zaid,Alluvial,MOP,Canal,18.42,91.79,321.38,1777.27,2022
+FR1221,Gujarat,Groundnut,All Season,Clay,Mixed,Rain-fed,-999.0,158.95,1016.0,3430.85,2016
+FR1526,UP,Tea,Kharif,Clay,Urea,River,14.44,22.24,451.32,1154.67,2017
+FR1095,Punjab,Wheat,All Season,Black,Mixed,Rain-fed,12.59,186.35,83.88,2425.32,2023
+FR1051,Maharashtra,Maize,Zaid,Red,Urea,Tube Well,14.72,77.12,1048.52,4131.8,2011
+FR1240,Haryana,Wheat,Rabi,Alluvial,Compost,Canal,8.91,197.0,900.66,2792.9,2012
+FR1480,Kerala,Sugarcane,All Season,Black,MOP,Sprinkler,8.43,83.66,416.48,0.0,2015
+FR1351,Punjab,Soybean,Kharif,Clay,Urea,Tube Well,9.02,167.11,878.78,3130.94,2019
+FR1489,Rajasthan,Pulses,Rabi,Black,Compost,Rain-fed,3.03,49.46,936.67,2330.98,2022
+FR1178,,Groundnut,All Season,Alluvial,Urea,River,19.06,191.67,314.87,0.0,2010
+FR1546,Punjab,Wheat,Rabi,Sandy,Compost,Drip,7.15,198.72,457.11,5721.51,2023
+FR1041,Kerala,Maize,All Season,Clay,Compost,Canal,-999.0,16.47,967.27,1987.57,2017
+FR1536,Haryana,Tea,Zaid,Laterite,MOP,River,7.66,22.28,1032.34,1210.7,2024
+FR1500,Kerala,unknown,Kharif,Red,MOP,Tube Well,8.2,128.67,121.86,3696.76,2020
+FR1206,Kerala,Wheat,All Season,Sandy,Mixed,Drip,16.6,42.78,707.7,3564.74,2021
+FR1392,Maharashtra,Maize,Zaid,Black,Urea,Sprinkler,0.98,162.6,555.08,2740.34,2013
+FR1282,Gujarat,Barley,All Season,Laterite,DAP,Rain-fed,6.27,49.06,999.8,5916.01,2018
+FR1358,Kerala,Wheat,All Season,Sandy,Urea,Tube Well,4.0,87.25,577.57,1316.74,2022
+FR1397,Punjab,Sugarcane,Rabi,Sandy,None,Canal,11.46,66.41,889.71,5694.71,2023
+FR1254,Maharashtra,Cotton,Zaid,Sandy,Mixed,Canal,3.43,188.59,503.41,5516.68,2022
+FR1217,Tamil Nadu,Soybean,Zaid,Sandy,MOP,Canal,0.56,116.06,203.13,4703.2,2010
+FR1004,Gujarat,Rice,Rabi,Alluvial,Compost,Rain-fed,18.89,153.08,776.05,2408.42,2022
+FR1256,Gujarat,Rice,Rabi,Alluvial,Mixed,Rain-fed,1.1,13.36,756.06,5064.47,2018
+FR1545,Bihar,Pulses,Zaid,Alluvial,DAP,Drip,18.08,128.45,224.21,5523.65,2010
+FR1430,Rajasthan,Cotton,Rabi,Laterite,Mixed,Rain-fed,8.49,181.53,670.83,3957.87,2014
+FR1100,Rajasthan,Groundnut,All Season,Clay,Urea,NA,10.79,198.92,786.45,4683.71,2015
+FR1226,Haryana,Barley,Rabi,Laterite,Urea,Canal,7.78,65.15,79.88,4713.09,2019
+FR1448,UP,Soybean,All Season,Alluvial,None,Sprinkler,18.95,72.68,135.28,4805.85,2021
+FR1529,Haryana,Cotton,Zaid,Red,MOP,Drip,13.65,73.28,867.36,5707.82,2013
+FR1213,UP,Tea,Zaid,Sandy,Compost,Rain-fed,12.58,48.22,517.12,1469.98,2020
+FR1359,MP,Wheat,Zaid,Laterite,DAP,Rain-fed,1.08,70.12,773.56,2743.74,2018
+FR1171,Haryana,Cotton,All Season,Red,Urea,Sprinkler,14.18,,543.07,1777.91,2020
+FR1098,Tamil Nadu,Wheat,Rabi,Alluvial,MOP,Rain-fed,-999.0,52.73,380.95,3860.9,2016
+FR1292,Kerala,Tea,Zaid,Sandy,None,River,16.2,175.77,,5190.87,2015
+FR1215,Punjab,Sugarcane,Rabi,Black,DAP,River,19.71,7.54,309.55,2673.57,2014
+,Tamil Nadu,Tea,All Season,Sandy,Compost,Sprinkler,19.56,78.47,313.24,2807.37,2024
+,Haryana,Sugarcane,Rabi,Sandy,Mixed,Canal,13.26,180.15,954.88,5311.59,2018
+FR1047,Bihar,Rice,Kharif,Laterite,Compost,Canal,15.03,35.17,576.53,3585.77,2011
+FR1032,Punjab,Pulses,Rabi,Red,Urea,Tube Well,18.1,30.3,1157.23,2428.69,2019
+FR1417,Bihar,Pulses,All Season,Alluvial,MOP,NA,16.55,98.94,542.85,2475.25,2023
+FR1267,MP,Groundnut,Kharif,Black,Compost,Sprinkler,7.3,175.09,99.26,4634.34,2010
+FR1327,Rajasthan,Rice,Zaid,Black,Mixed,River,14.64,30.76,453.86,5960.08,2023
+FR1200,MP,Wheat,All Season,Black,Mixed,Canal,1.96,146.07,687.98,3130.51,2013
+FR1134,Gujarat,Soybean,All Season,Red,None,River,12.88,168.58,479.22,5382.03,2021
+FR1027,Bihar,Groundnut,Rabi,Clay,MOP,Tube Well,19.59,164.49,709.94,3358.14,2015
+FR1502,Punjab,Pulses,All Season,Black,DAP,Rain-fed,7.74,125.88,448.37,4799.69,2020
+FR1230,Tamil Nadu,Wheat,Rabi,Red,MOP,Rain-fed,5.67,127.51,1132.72,5593.61,2023
+FR1260,UP,Pulses,Kharif,Alluvial,MOP,Tube Well,11.18,105.05,579.88,2426.11,2014
+FR1378,Kerala,Cotton,Zaid,Clay,MOP,Canal,4.4,82.55,74.73,1245.45,2024
+FR1288,Tamil Nadu,unknown,All Season,Laterite,None,Canal,4.28,172.7,1059.8,2849.48,2022
+FR1418,Punjab,Cotton,All Season,Alluvial,Mixed,Tube Well,11.1,195.61,742.71,5470.92,2013
+FR1162,Haryana,Maize,Rabi,Laterite,DAP,Rain-fed,14.37,,658.6,2490.23,2012
+FR1391,Punjab,Groundnut,Zaid,Alluvial,Mixed,Canal,11.38,,984.81,5219.71,2018
+FR1527,MP,Groundnut,Zaid,Alluvial,MOP,Drip,5.59,81.1,987.78,1249.35,2023
+FR1138,UP,Maize,Rabi,Laterite,DAP,Sprinkler,7.14,,488.05,0.0,2017
+FR1062,Haryana,Soybean,All Season,Sandy,DAP,Sprinkler,13.28,95.03,668.89,0.0,2010
+FR1471,Punjab,Soybean,Kharif,Clay,DAP,Canal,17.9,84.83,1189.9,1079.27,2016
+FR1135,Bihar,Pulses,Kharif,Alluvial,MOP,River,17.03,156.2,1064.66,3176.29,2023
+FR1073,Tamil Nadu,Wheat,All Season,Clay,Urea,Rain-fed,4.48,197.17,738.92,2011.38,2024
+FR1128,Tamil Nadu,Tea,Rabi,Black,Urea,Tube Well,0.85,45.65,120.23,5091.29,2014
+FR1220,UP,Groundnut,Zaid,Clay,Compost,NA,12.22,183.47,200.13,4350.13,2013
+FR1008,UP,Pulses,All Season,Clay,MOP,River,3.37,86.81,213.56,4041.29,2021
+FR1326,Kerala,Maize,Zaid,Sandy,None,Rain-fed,13.85,14.6,80.52,2417.99,2012
+FR1344,Tamil Nadu,Soybean,All Season,Clay,DAP,Drip,8.79,3.68,759.1,5572.0,2015
+FR1064,Maharashtra,Tea,All Season,Alluvial,Compost,Drip,1.23,197.83,697.51,1135.62,2013
+FR1300,Rajasthan,Rice,All Season,Black,Mixed,Sprinkler,5.98,168.2,595.84,1024.02,2023
+FR1014,Punjab,Cotton,All Season,Sandy,DAP,Rain-fed,13.75,123.1,315.82,2979.28,2019
+FR1156,Bihar,Barley,All Season,Sandy,Urea,Rain-fed,13.03,158.82,812.72,5112.76,2022
+FR1040,MP,Pulses,Rabi,Red,None,River,9.35,115.91,277.77,1072.45,2019
+FR1492,MP,Tea,Rabi,Sandy,Compost,Drip,15.87,46.44,427.81,1078.64,2016
+FR1379,Punjab,Groundnut,All Season,Black,None,Tube Well,19.07,46.05,267.84,2408.69,2016
+FR1187,Tamil Nadu,Sugarcane,Zaid,Black,Urea,Drip,2.06,196.12,118.21,0.0,2019
+FR1514,Punjab,Soybean,All Season,Sandy,Compost,Rain-fed,15.1,78.42,926.18,4525.66,2020
+FR1216,Punjab,Pulses,All Season,Laterite,MOP,Tube Well,-999.0,131.54,489.14,4378.15,2015
+FR1409,Rajasthan,Soybean,Zaid,Clay,None,NA,16.52,143.2,679.27,4092.39,2018
+FR1279,Haryana,Sugarcane,All Season,Alluvial,Compost,River,7.92,139.36,485.78,1623.06,2010
+FR1052,MP,Barley,Zaid,Laterite,Urea,Sprinkler,5.28,54.42,647.01,5049.66,2020
+FR1533,MP,Cotton,Rabi,Laterite,Compost,Canal,7.11,143.3,739.69,3274.66,2013
+FR1337,Bihar,Tea,All Season,Alluvial,MOP,Rain-fed,14.71,68.74,912.4,2653.52,2022
+FR1295,Gujarat,Tea,Zaid,Clay,Urea,Drip,7.22,82.71,362.85,1092.56,2024
+FR1251,Rajasthan,Pulses,Kharif,Red,DAP,Drip,17.72,29.0,467.16,2808.42,2024
+FR1461,MP,Barley,All Season,,DAP,Canal,1.63,40.21,1155.07,5382.07,2021
+FR1455,Bihar,Rice,Kharif,Clay,None,Drip,18.81,123.45,725.76,3767.94,2021
+FR1289,Maharashtra,Barley,Zaid,Black,MOP,River,19.93,182.1,1042.69,1800.59,2018
+FR1269,UP,Soybean,All Season,Sandy,Mixed,River,14.18,5.47,912.03,1660.64,2022
+FR1201,Bihar,Barley,Kharif,Sandy,Compost,Canal,13.28,36.26,894.48,4150.22,2018
+FR1161,Punjab,Rice,All Season,Black,Mixed,Canal,1.59,88.92,905.45,5968.33,2015
+FR1401,Tamil Nadu,Cotton,Kharif,Red,Mixed,Rain-fed,3.61,90.88,502.73,0.0,2021
+FR1476,MP,Tea,Zaid,Sandy,Mixed,Sprinkler,2.72,165.9,868.33,3489.45,2022
+FR1105,UP,Barley,All Season,Clay,Mixed,Sprinkler,12.7,154.72,931.53,2509.04,2014
+FR1389,Rajasthan,Maize,Kharif,Laterite,MOP,Rain-fed,8.3,148.51,595.79,4214.41,2011
+FR1001,Punjab,Barley,Zaid,Red,Mixed,Drip,0.51,126.43,146.18,0.0,2012
+FR1540,Kerala,Maize,Zaid,Laterite,None,Tube Well,7.82,74.56,1139.86,5484.75,2014
+FR1080,Maharashtra,Groundnut,Zaid,Black,Mixed,Canal,8.73,96.31,467.06,5390.39,2016
+FR1205,Maharashtra,Cotton,Rabi,Sandy,MOP,Drip,17.62,142.64,618.43,3099.84,2020
+FR1034,Punjab,Barley,Kharif,Alluvial,Mixed,Canal,5.73,66.99,108.58,2545.14,2013
+FR1508,Gujarat,Maize,Kharif,Laterite,None,Drip,12.01,184.07,1046.04,1668.83,2021
+FR1427,Bihar,Cotton,Zaid,Red,None,River,3.93,58.93,459.77,2921.86,2013
+FR1454,Haryana,Tea,Rabi,Black,DAP,Sprinkler,16.95,15.39,578.85,1513.73,2010
+FR1366,Punjab,Cotton,Zaid,Alluvial,MOP,Canal,3.52,133.0,1043.76,0.0,2012
+FR1091,Gujarat,Maize,Rabi,Laterite,MOP,Rain-fed,16.83,169.9,1190.89,1082.57,2010
+FR1339,Gujarat,Cotton,Kharif,Clay,DAP,Canal,18.64,196.18,,1594.67,2020
+FR1345,Punjab,Groundnut,Kharif,Black,Compost,Drip,17.26,154.51,131.58,3791.32,2013
+,Gujarat,Wheat,Kharif,Sandy,Urea,NA,14.87,3.85,786.88,0.0,2017
+FR1013,Punjab,Groundnut,Rabi,Clay,Compost,Sprinkler,6.07,107.56,826.42,5710.13,2017
+FR1315,Kerala,Sugarcane,Zaid,Alluvial,DAP,Tube Well,18.17,54.61,1195.26,2040.75,2014
+FR1387,Haryana,Barley,All Season,Laterite,MOP,Sprinkler,3.54,186.51,1093.7,5703.51,2018
+,MP,Pulses,Kharif,Clay,Urea,River,-999.0,,578.81,3776.49,2016
+FR1166,Rajasthan,Soybean,Rabi,Laterite,None,River,14.19,96.99,138.06,1605.81,2015
+FR1081,Rajasthan,Tea,Rabi,Black,DAP,River,4.5,143.42,,3352.28,2023
+FR1484,Bihar,Groundnut,Rabi,Sandy,MOP,Tube Well,2.46,189.93,102.87,2844.72,2018
+FR1082,Gujarat,Sugarcane,Rabi,Sandy,Compost,Rain-fed,6.03,56.48,460.85,3493.39,2021
+FR1504,MP,Sugarcane,All Season,Alluvial,MOP,River,6.16,159.69,383.33,1137.56,2019
+FR1243,Kerala,Maize,Kharif,Sandy,None,Tube Well,9.89,135.25,553.41,1453.11,2010
+FR1189,Rajasthan,Barley,Kharif,Laterite,None,Canal,2.1,52.67,75.48,1349.68,2021
+FR1475,MP,Barley,All Season,Alluvial,Urea,River,11.79,72.65,199.94,4891.6,2022
+FR1510,Kerala,Barley,All Season,Sandy,Compost,Drip,9.43,80.65,621.51,2411.62,2019
+FR1058,Maharashtra,Barley,Zaid,Clay,MOP,Canal,18.08,22.85,634.42,3967.08,2014
+FR1474,Kerala,Barley,Zaid,Alluvial,Mixed,River,12.56,85.09,,3519.12,2011
+FR1252,Haryana,Barley,All Season,Red,DAP,Drip,18.53,78.48,476.95,1208.78,2010
+FR1021,Tamil Nadu,unknown,Kharif,Sandy,MOP,Drip,17.73,79.05,184.58,3032.27,2015
+FR1313,Punjab,Cotton,Rabi,Black,DAP,Sprinkler,-999.0,7.38,191.49,3747.07,2021
+FR1459,Haryana,Pulses,Kharif,Alluvial,DAP,Tube Well,17.98,177.72,790.31,4747.13,2022
+FR1160,UP,Barley,All Season,Clay,None,Canal,-999.0,76.32,463.22,5719.34,2011
+,Maharashtra,Cotton,All Season,Sandy,None,River,17.58,71.0,657.43,4602.83,2014
+FR1191,Kerala,Rice,Zaid,Sandy,Compost,Rain-fed,0.88,14.38,970.73,2043.03,2021
+FR1385,Bihar,Maize,Zaid,Black,None,Drip,4.75,174.57,699.89,4310.35,2011
+FR1413,MP,Soybean,Rabi,Clay,DAP,Canal,4.89,158.09,479.58,4341.94,2022
+FR1491,Rajasthan,unknown,All Season,Laterite,Mixed,Canal,6.65,42.44,462.34,0.0,2018
+FR1343,Rajasthan,Maize,All Season,Sandy,Urea,Drip,5.46,149.94,942.72,0.0,2012
+FR1308,Punjab,Barley,Kharif,Black,DAP,Canal,16.55,144.25,142.13,1111.75,2021
+FR1130,Kerala,Groundnut,Rabi,Alluvial,None,Canal,19.6,106.02,499.19,4990.01,2016
+FR1099,Haryana,Cotton,Zaid,Clay,DAP,Drip,12.35,142.44,629.14,3787.28,2021
+FR1372,UP,Pulses,All Season,Red,DAP,Drip,6.32,166.48,166.22,3537.94,2024
+FR1087,MP,Soybean,Kharif,Sandy,DAP,River,3.05,129.8,1132.52,4274.97,2016
+FR1458,Tamil Nadu,unknown,All Season,Sandy,Compost,Canal,9.42,,88.47,5658.77,2019
+FR1330,Rajasthan,Pulses,Kharif,Laterite,DAP,River,9.66,19.21,562.02,1864.21,2023
+FR1214,Rajasthan,Cotton,Kharif,Clay,Compost,Tube Well,4.44,156.18,359.71,3876.17,2017
+FR1466,Bihar,unknown,All Season,Clay,Mixed,Sprinkler,1.27,173.0,1036.27,5199.47,2015
+FR1121,MP,Groundnut,Zaid,Laterite,DAP,Rain-fed,4.83,141.73,422.3,3405.37,2023
+FR1020,Kerala,Rice,Zaid,Alluvial,Mixed,River,8.72,139.83,1064.56,1013.0,2014
+FR1071,MP,Barley,Zaid,Red,Compost,River,13.52,103.85,896.4,5867.31,2020
+FR1106,Bihar,Wheat,Kharif,Laterite,None,Tube Well,15.21,192.43,1087.96,5073.57,2021
+FR1270,Maharashtra,Maize,All Season,Alluvial,DAP,River,3.59,191.28,319.85,2994.9,2023
+FR1435,Rajasthan,Soybean,All Season,Alluvial,Mixed,Canal,8.99,129.01,1077.65,2082.11,2016
+FR1102,Bihar,Tea,All Season,Sandy,DAP,NA,4.3,73.84,377.71,5912.47,2012
